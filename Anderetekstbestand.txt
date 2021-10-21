@@ -1,3 +1,5 @@
 This is a new text document for my first repository
 
 Changed in testing branch
+
+This is a second change in testing branch
